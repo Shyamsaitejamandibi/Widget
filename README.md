@@ -40,7 +40,7 @@ To get started with this project, follow these steps:
 Clone the repository:
 
 ```bash
-   git clone https://github.com/Shyamsaitejamandibi/Widget
+git clone https://github.com/Shyamsaitejamandibi/Widget
 ```
 
 Navigate to the project directory:
